@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": 
+        "I'm a chatbot. You can call me ChatBot."
+      ,
+      "correctAnswer": 0
+    },
+    {
+      "question": "How are you?",
+      "answer": 
+        "I'm doing well, thank you. How about you?"
+      ,
+      "correctAnswer": 0
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": 
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ,
+      "correctAnswer": 0
+    },
+    {
+      "question": "Goodbye",
+      "answer": 
+        "Goodbye! Have a great day."
+    ,
+      "correctAnswer": 0
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    }
+  ]
+}
