@@ -43,7 +43,7 @@ This is a simple console-based chatbot implemented in Python. The chatbot is des
 
  file for details.
 
-https://github.com/JamilAhmed00/my-bot/issues/1#issue-2092468063
+![chat-bot](https://github.com/JamilAhmed00/my-bot/assets/95686803/21779975-83b0-4946-bea2-e314565c2da1)
 
 
 
